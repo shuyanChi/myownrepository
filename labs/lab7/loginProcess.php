@@ -6,7 +6,7 @@
     $userName = $_POST["username"];
     //echo $userName. "<br />";
     $passWord = sha1($_POST["password"]);
-    //echo $passWord . "<br />";
+    echo $passWord . "<br />";
     
    /* $sql = "SELECT * FROM om_admin WHERE userName = '$userName'
             AND password = '$passWord'";*/

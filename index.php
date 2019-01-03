@@ -37,9 +37,11 @@
     </style>
 </head>
 <body>
-    <?php
-        echo "<h1>Shuyan Workspace</h1>";
-    ?>
+   
+       <h1>Shuyan Workspace</h1>
+        <ul>
+        <a href="lab/lab7/index.php"><li>lab7</li></a>
+        </ul>
 
     <figure>
         <img src = "img/cat.jpg"  alt = "cat"/>
