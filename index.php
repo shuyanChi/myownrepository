@@ -40,7 +40,7 @@
    
        <h1>Shuyan Workspace</h1>
         <ul>
-        <a href="lab/lab7/index.php"><li>lab7</li></a>
+        <a href="labs/lab7/index.php"><li>lab7</li></a>
         </ul>
 
     <figure>
